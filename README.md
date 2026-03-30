@@ -33,24 +33,24 @@ Pachca API
 ### Pachca
 PACHCA_API_TOKEN=your_pachca_token
 
-# IMAP (Яндекс)
+### IMAP (Яндекс)
 IMAP_SERVER=imap.yandex.ru
 IMAP_PORT=993
 YANDEX_MAIL_LOGIN=your_email@yandex.ru
 YANDEX_MAIL_TOKEN=your_oauth_token
 
-# Настройки обработки
+### Настройки обработки
 EMAIL_FETCH_LIMIT=50
 SINCE_MINUTES=5
 
-# Таймауты
+### Таймауты
 SOCKET_TIMEOUT=10
 REQUESTS_TIMEOUT=15
 
-# Администратор (fallback)
+### Администратор (fallback)
 ADMIN_PACHCA_ID=123
 
-# Помечать письма как прочитанные
+### Помечать письма как прочитанные
 MARK_PROCESSED_AS_SEEN=false
 
 ## Запуск
