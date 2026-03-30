@@ -54,7 +54,7 @@ MARK_PROCESSED_AS_SEEN=false
 Функция запускается через handler(event, context)
 
 Можно использовать:
-cron / scheduler
+cron / scheduler (trigger)
 
 ## Логика обработки
 1. Обычные письма
