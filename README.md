@@ -30,7 +30,7 @@ Pachca API
 
 ## Переменные окружения
 
-# Pachca
+### Pachca
 PACHCA_API_TOKEN=your_pachca_token
 
 # IMAP (Яндекс)
